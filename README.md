@@ -51,4 +51,4 @@
 <pre>PUT 'error 400,está faltando ou o preço está zerado = /produtos'</pre>
 
 <br>
-<h2>V1.0</h2>
+<h2>V1.1</h2>
