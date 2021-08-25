@@ -10,7 +10,7 @@
 
 <h2>Instalar Dependências</h2>
 
-<pre> npm install ou yarn install</pre>
+<pre> npm install ou yarn</pre>
 
 <br>
 
